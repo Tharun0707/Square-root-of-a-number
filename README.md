@@ -32,6 +32,9 @@ else:
     print("Square root of the number: {}".format(result))
 
 ## Output:
+![image](https://github.com/Tharun0707/Square-root-of-a-number/assets/145548496/23506682-cc92-4521-a232-97c204e664f7)
+
+
 ![image](https://github.com/Tharun0707/Square-root-of-a-number/assets/145548496/d4c64724-44a5-48f9-9013-b1dc7be9dd24)
 
 
